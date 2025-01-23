@@ -1,2 +1,1 @@
 # Turtle-Exploit
-bitcoin full 
